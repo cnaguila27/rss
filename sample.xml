@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Sample Calendar Events</title>
+    <link>https://www.example.com/calendar</link>
+    <description>A sample RSS feed for testing calendar events</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2024 12:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Team Meeting</title>
+      <link>https://www.example.com/events/team-meeting</link>
+      <description>Monthly team meeting to discuss project updates and goals.</description>
+      <pubDate>Mon, 18 Dec 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.example.com/events/team-meeting</guid>
+    </item>
+
+    <item>
+      <title>Workshop: Intro to WordPress</title>
+      <link>https://www.example.com/events/workshop-intro-to-wordpress</link>
+      <description>A beginner-friendly workshop covering the basics of WordPress.</description>
+      <pubDate>Tue, 19 Dec 2024 10:00:00 +0000</pubDate>
+      <guid>https://www.example.com/events/workshop-intro-to-wordpress</guid>
+    </item>
+
+    <item>
+      <title>Networking Event</title>
+      <link>https://www.example.com/events/networking-event</link>
+      <description>Meet and connect with professionals in your industry.</description>
+      <pubDate>Wed, 20 Dec 2024 17:00:00 +0000</pubDate>
+      <guid>https://www.example.com/events/networking-event</guid>
+    </item>
+
+    <item>
+      <title>Holiday Party</title>
+      <link>https://www.example.com/events/holiday-party</link>
+      <description>Celebrate the holiday season with colleagues and friends.</description>
+      <pubDate>Fri, 22 Dec 2024 18:00:00 +0000</pubDate>
+      <guid>https://www.example.com/events/holiday-party</guid>
+    </item>
+  </channel>
+</rss>
